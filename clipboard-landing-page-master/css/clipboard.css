@@ -14,7 +14,7 @@ p{
 	font-weight: 600;
 	color:hsl(201, 11%, 66%);
 }
-.header{
+.banner{
 	background-image: url('../images/bg-header-desktop.png');
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -33,7 +33,7 @@ p{
 text-align: center;
 }
 
-.heading-tab{
+.navigation{
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -67,7 +67,7 @@ text-align: center;
 	top: 120px;
 	left: 460px;
 }
-.first-heading{
+.first-head{
 	position: absolute;
 	top: 0px;
 	left: 150px;
@@ -77,21 +77,21 @@ text-align: center;
 	top: 50px;
 	left: 0px;
 }
-.Computer{
+.first-device{
 	position: relative;
 	top: 200px;
 	left: -30px;
 	width: 720px;
 	height: 480px;
 }
-.Computer-frame{
+.com-box{
 	width: 350px;
 	height: 350px;
 	position: relative;
 	top: -200px;
 	left: 750px;
 }
-.Computer-frame > h3, p{
+.com-box > h3, p{
 	position: absolute;
 }
 .Comp-features-sub1{
@@ -109,7 +109,7 @@ top: 130px;
 .Comp-features-sub3{
 		top: 290px;
 }
-.tablet-frame{
+.tab-box{
 	height: 100px;
 	width: 600px;
 	text-align: center;
@@ -117,12 +117,12 @@ top: 130px;
 	top: -80px;
 	left: 500px;
 }
-.devices{
+.list-devices{
 	position: relative;
 	top: -50px;
 	left: 300px;
 }
-.third-heading-frame{
+.third-box{
 	text-align: center;
 	position: relative;
 	top: -50px;
@@ -130,7 +130,7 @@ top: 130px;
 .third-sub{
 	width: 100%;
 }
-.company-container{
+.company-names{
 	display: flex;
 	justify-content: center;
 	align-content: center;
@@ -155,14 +155,14 @@ top: 130px;
 	position: relative;
 	top: 50px;
 }
-.frame-icons{
+.icon-box{
 	display: flex;
 	width: 100%;
 	justify-content: center;
 	align-items: center;
 	margin-top: 80px;
 }
-.frame-icons > img{
+.icon-box > img{
 	margin: 0px 50px 0px 50px;
 }
 .bottom-row{
@@ -173,7 +173,7 @@ top: 130px;
 
 	height: 200px;
 }
-.bottom-sub{
+.sub-buttom{
 	text-align: center;
 	width: 600px;
 	top: 50px;
